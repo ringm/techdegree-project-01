@@ -146,6 +146,7 @@ header .profile-image:hover {
 
 .project:hover {
   transform: scale(1.1);
+  border-color: #ff6c03;
 }
 
 #hoojobs {
