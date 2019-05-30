@@ -76,11 +76,11 @@ header .profile-image:hover {
 }
 
 .home-bg {
-  background: url("images/buenosAires.png") no-repeat top center;
+  background: url("../images/buenosAires.png") no-repeat top center;
 }
 
 .exp-bg {
-  background: url("images/experience.png") no-repeat top center;
+  background: url("../images/experience.png") no-repeat top center;
   color: white;
 }
 
@@ -149,15 +149,15 @@ header .profile-image:hover {
 }
 
 #hoojobs {
-  background: #000 url("images/hoojobs.png") no-repeat center;
+  background: #000 url("../images/hoojobs.png") no-repeat center;
 }
 
 #ggwp {
-  background: #000 url("images/ggwp.png") no-repeat center;
+  background: #000 url("../images/ggwp.png") no-repeat center;
 }
 
 #container {
-  background: #000 url("images/container.png") no-repeat center;
+  background: #000 url("../images/container.png") no-repeat center;
 }
 
 ul.skills {
@@ -210,13 +210,13 @@ a.social {
   transition: all .5s;
 }
 a.twitter {
-  background-image: url(images/twitter.svg);
+  background-image: url(../images/twitter.svg);
 }
 a.linkedin {
-  background-image: url(images/linkedin.svg);
+  background-image: url(../images/linkedin.svg);
 }
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(../images/github.svg);
 }
 a.social:hover {
   opacity: 1;
